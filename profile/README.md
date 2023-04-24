@@ -1,6 +1,8 @@
 # Angular & Quarkus Demo with Eclipse Che / OpenShift Dev Spaces
 
-This Github organization contains a demo app that was created to demonstrate live coding in Eclipse Che & OpenShift Dev Spaces.
+This Github organization contains a demo app that was created to demonstrate live coding in Eclipse Che & OpenShift Dev Spaces:
+
+[OpenShift - Your New Favorite IDE](https://upstreamwithoutapaddle.com/blog%20post/2023/04/06/Development-On-OpenShift-With-Eclipse-Che.html)
 
 There are three code repositories for the demo:
 

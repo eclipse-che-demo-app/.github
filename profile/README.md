@@ -8,7 +8,7 @@ There are three code repositories for the demo:
 
 1. [https://github.com/eclipse-che-demo-app/che-demo-app](https://github.com/eclipse-che-demo-app/che-demo-app)
 
-   This repository holds the Eclipse Che & VS Code configuration for the project
+   This repository holds the OpenShift Dev Spaces aka (Eclipse Che) & VS Code configuration for the project
 
 1. [https://github.com/eclipse-che-demo-app/che-demo-app-ui](https://github.com/eclipse-che-demo-app/che-demo-app-ui)
 

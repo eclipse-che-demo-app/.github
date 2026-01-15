@@ -1,6 +1,6 @@
 # Angular & Quarkus Demo with Eclipse Che / OpenShift Dev Spaces
 
-[![Contribute](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.nuc-15.clg.lab/#https://github.com/eclipse-che-demo-app/che-demo-app)
+[![Contribute](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.region-03.clg.lab/#https://github.com/eclipse-che-demo-app/che-demo-app)
 
 This Github organization contains a demo app that was created to demonstrate live coding in Eclipse Che & OpenShift Dev Spaces:
 
